@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Loops;
 
 import java.util.Scanner;
@@ -20,3 +21,9 @@ public class AP {
 //        }
     }
 }
+=======
+package Loops;
+
+public class AP {
+}
+>>>>>>> b8fe861 (kuch)

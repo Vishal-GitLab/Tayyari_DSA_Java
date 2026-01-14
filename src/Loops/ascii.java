@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Loops;
 
 public class ascii {
@@ -9,3 +10,9 @@ public class ascii {
         }
     }
 }
+=======
+package Loops;
+
+public class ascii {
+}
+>>>>>>> b8fe861 (kuch)
