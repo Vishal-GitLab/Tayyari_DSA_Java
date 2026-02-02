@@ -25,4 +25,5 @@ public class OddTriangle {
 //            System.out.println();
 //        }
     }
+
 }
